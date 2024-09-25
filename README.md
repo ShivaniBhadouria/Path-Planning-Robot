@@ -25,7 +25,6 @@
     <ul>
       <li><a href="https://github.com/shivanibhadouria">Shivani Bhadouria</a></li>
      
-    </ul>
  </ul>
  
 ---
