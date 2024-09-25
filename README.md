@@ -15,9 +15,8 @@
 
 <h2> :star2: Path Planning Robot </h2>
 <ul>
-  <li> Here you can find the <a href="link">PPT</a> of the project.</li>
   <li> Here you can find the <a href="link">Source Code</a> of the project.</li>
-  <li> Here you can find the <a href="link">Webot World File</a>.</li>
+
 </ul>
 <h2> :star2: Contributors </h2>
   <ul>
