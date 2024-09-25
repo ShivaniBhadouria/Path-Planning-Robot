@@ -26,12 +26,6 @@
       <li><a href="https://github.com/shivanibhadouria">Shivani Bhadouria</a></li>
      
     </ul>
-  </li>  
-
-  <ul>
-  
-  </ul>
-   </li>
  </ul>
  
 ---
